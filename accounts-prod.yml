@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the banking software. This is an Accounts PROD API"
+  contactDetails:
+    name: "MM Company"
+    email: "monisha.mithun@gmail.com"
+  onCallSupport:
+    - 9148010606
+    - 9876543210
